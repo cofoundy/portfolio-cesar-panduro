@@ -2,11 +2,11 @@
 
 ## Datos Básicos
 - **Nombre:** César Erick Panduro Mendoza
-- **Email:** ericsompm1994@gmail.com
+- **Email:** cesar.panduro@gmail.com
 - **WhatsApp:** 931452706
 - **Fecha registro:** 2026-02-28
 - **Tier:** Arranca S/.50
-- **Owner:** Alvaro
+- **Owner:** Melissa
 
 ## Voucher
 - **Verificado:** Sí
@@ -27,16 +27,15 @@
 - [x] Formulario
 - [x] Voucher verificado
 - [x] Foto profesional (headshot con traje)
-- [ ] CV (no subió CV real, subió foto en campo CV)
+- [x] CV (22 páginas — CV textual + diplomas + certificados de trabajo + cursos)
 - [ ] LinkedIn (no tiene perfil encontrable)
 - [ ] GitHub
 - [ ] Otras redes
 
 ## Gaps
-- Sin CV textual - solo foto
 - Sin LinkedIn ni presencia online
-- Sin descripción profesional ni experiencia laboral conocida
-- Portfolio será minimalista con datos disponibles
+- Sin foto de alta resolución adicional
 
 ## Oportunidad Upsell
-- Sin datos de negocio/emprendimiento detectados
+- Trabaja en venta técnica de equipos industriales → potencial landing para su negocio
+- Ingeniero colegiado con CIP activo → podría beneficiarse de dominio propio (.com)
